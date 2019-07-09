@@ -20,7 +20,7 @@ arr.push(2); //[1,2]
 
 // Value of obj
 var obj = { name: "ryan" };
-obj = { surname: "florance" };
+obj = { surname: "florance" }; //{surname:"florence"}
 
 // What's the output.
 var arr = ["Hi"];
