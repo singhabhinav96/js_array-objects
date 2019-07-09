@@ -1,22 +1,22 @@
 // Value of x, y, a, b
 
-var x = 10;
-var y = "abc";
-var a = x;
-var b = y;
+var x = 10; //10
+var y = "abc"; //"abc"
+var a = x; //10
+var b = y; //"abc"
 
 // Value of x, y, a, b
-var x = 10;
-var y = "abc";
-var a = x;
-var b = y;
-a = 5;
-b = "def";
+var x = 10; //10
+var y = "abc"; //"abc"
+var a = x; //10
+var b = y; //"abc"
+a = 5; //5
+b = "def"; //"def"
 
 // Value of arr & arrCopy
-var arr = [1];
-var arrCopy = arr;
-arr.push(2);
+var arr = [1]; //[1]
+var arrCopy = arr; //[1]
+arr.push(2); //[1,2]
 
 // Value of obj
 var obj = { name: "ryan" };
